@@ -15,10 +15,6 @@ This project aims to classify news articles as real or fake based on their conte
 ### Prerequisites
 To complete this project, you should understand Python programming, data manipulation, visualization libraries such as Pandas and Matplotlib, and machine learning libraries such as Scikit-Learn. Additionally, some background knowledge of natural language processing (NLP) techniques and text classification methods would be helpful.
 
-### Resources
-- Check out  [Dataset](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
-- Jump into our [GitHub](https://github.com/Bhavik-Jikadara/Fake-News-Detection)
-
 ### Install the requirements libraries using pip
     $ pip install -r requirements.txt
 
@@ -26,15 +22,4 @@ To complete this project, you should understand Python programming, data manipul
     $ streamlit run Home.py
 
 
-► Follow:
-* Linkedin Link: https://www.linkedin.com/in/bhavikjikadara
-* Github Link: https://github.com/Bhavik-Jikadara
-* Facebook Link: https://www.facebook.com/Bhavikjikadara07
-* Instagram Link: https://www.instagram.com/bhavikjikadara/
-* twitter Link: https://twitter.com/BhavikJikadara1
 
-►  Subscribe
-* https://www.youtube.com/channel/UC7Bp_sYQmAryrrPqvUp6PwQ
-
-►  Donate & Support us
-* https://www.paypal.com/paypalme/bhavikjikadara
